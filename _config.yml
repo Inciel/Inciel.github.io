@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: XUAN
+name: YINGXUAN
 
 # Short bio or description (displayed in the header)
-description: A student in department of Arts&Humanities in King's College London.
+description: A student in department of Digital Humanities in King's College London.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +21,7 @@ footer-links:
   email: Yingxuan.Chen@kcl.ac.uk
   facebook:
   github: Inciel/jekyll-now
-  instagram:
+  instagram: Yuxioo_CC
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: Eunoia_CC
